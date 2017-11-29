@@ -1,4 +1,5 @@
-# pre-work-intro-to-programming
+# Pre Work Intro to Programming
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 Before starting your journey, the first question to answer is: Why use Python?Watch the first 30 minutes of this [talk](https://www.youtube.com/watch?v=CoxjADZHUQA) from Jeremy, Founder of DataRobot at PyCon 2014, Ukraine to get an idea of how useful Python could be.
 
